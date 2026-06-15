@@ -27,12 +27,19 @@
 ## 🛠️ Skills
 
 **Programming:** Python · Java · JavaScript · PHP · C
-**Web & Backend:** HTML · CSS · Laravel (basics) · Google Sites
+
+**Web & Backend:** HTML · CSS · Laravel (basics) · 
+
 **Data & AI:** Python (Data Analysis) · Machine Learning · Power BI
+
 **Networking:** TCP/IP · HTTP · FTP · DNS · Cisco Packet Tracer
+
 **AI Tools:** Claude · Claude Code · ChatGPT · Gemini · Notebook LM · Gamma.app
+
 **Cloud & Database:** AWS Cloud Security · GitHub · MS Office · Google Workspace
+
 **Other:** OOP · System Design · Git
+
 **Languages:** Bengali (Native) · English (Professional)
 
 ---
